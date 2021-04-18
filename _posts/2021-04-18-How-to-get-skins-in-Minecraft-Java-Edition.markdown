@@ -3,6 +3,7 @@ layout: post
 title:  "How to get skins in Minecraft Java edition"
 date:   2021-04-18 14:17:35 +0100
 categories: Minecraft
+youtubeId: wKqAMXmI2sw
 ---
 
 NOTE: This was tested with Minecraft Java Edition version 1.16.5.
@@ -21,6 +22,6 @@ Click on the skin you want on the side it will say download then open your file 
 2. At the top click on skins then add skin then click browse and open the file you just downloaded then name it and at the bottem click save or save and use. That is how you get a skin on minecraft jave 1.16.5
 
 # Check out this video of the process
-{% include youtubePlayer.html id=wKqAMXmI2sw %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 [skindex]: https://minecraftskins.com
