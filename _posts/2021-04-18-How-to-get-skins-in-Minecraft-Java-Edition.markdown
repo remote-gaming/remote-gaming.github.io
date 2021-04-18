@@ -20,4 +20,7 @@ Click on the skin you want on the side it will say download then open your file 
 1. Open up your minecraft
 2. At the top click on skins then add skin then click browse and open the file you just downloaded then name it and at the bottem click save or save and use. That is how you get a skin on minecraft jave 1.16.5
 
+# Check out this video of the process
+{% include youtubePlayer.html id=page.wKqAMXmI2sw %}
+
 [skindex]: https://minecraftskins.com
