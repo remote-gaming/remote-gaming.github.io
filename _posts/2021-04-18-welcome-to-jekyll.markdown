@@ -1,29 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to get skins in Micecraft Java edition"
 date:   2021-04-18 14:17:35 +0100
-categories: jekyll update
+categories: Minecraft
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+NOTE: This was tested with Minecraft Java Edition version 1.16.5
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# Go to the Skindex web site
+type in minecraft skins in your browser and click the first one that says Minecraft Skins - [The Skindex][skindex]
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Search for the skin you want
+Scroll down to the one you want or you can search
 
-Jekyll also offers powerful support for code snippets:
+# Download the skin
+Click on the skin you want on the side it will say download then open your file i like to save it to my desktop in files now open up your minecraft
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+# Add the skin in Minecraft
+at the top click on skins then add skin then click browse and open the file you just downloaded then name it and at the bottem click save or save and use. That is how you get a skin on minecraft jave 1.16.5
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[skindex]: https://minecraftskins.com
