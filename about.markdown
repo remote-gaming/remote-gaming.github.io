@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Remote-Gaming-Logo](/images/remote-gaming-logo.png){:class="img-responsive"}
+![Remote-Gaming-Logo](/images/remote-gaming-logo.png)
 
 ## Welcome
 Welcome to our gaming blog from a remote island! Here we share our gaming fun & tips for your enjoyment.
